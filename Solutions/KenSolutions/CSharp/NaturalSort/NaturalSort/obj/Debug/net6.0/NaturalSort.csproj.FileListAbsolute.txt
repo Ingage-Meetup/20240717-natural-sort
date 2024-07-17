@@ -1,0 +1,15 @@
+C:\Users\ilpad\Documents\code\c3\20240717-natural-sort\Solutions\KenSolutions\CSharp\NaturalSort\NaturalSort\bin\Debug\net6.0\NaturalSort.exe
+C:\Users\ilpad\Documents\code\c3\20240717-natural-sort\Solutions\KenSolutions\CSharp\NaturalSort\NaturalSort\bin\Debug\net6.0\NaturalSort.deps.json
+C:\Users\ilpad\Documents\code\c3\20240717-natural-sort\Solutions\KenSolutions\CSharp\NaturalSort\NaturalSort\bin\Debug\net6.0\NaturalSort.runtimeconfig.json
+C:\Users\ilpad\Documents\code\c3\20240717-natural-sort\Solutions\KenSolutions\CSharp\NaturalSort\NaturalSort\bin\Debug\net6.0\NaturalSort.dll
+C:\Users\ilpad\Documents\code\c3\20240717-natural-sort\Solutions\KenSolutions\CSharp\NaturalSort\NaturalSort\bin\Debug\net6.0\NaturalSort.pdb
+C:\Users\ilpad\Documents\code\c3\20240717-natural-sort\Solutions\KenSolutions\CSharp\NaturalSort\NaturalSort\obj\Debug\net6.0\NaturalSort.csproj.AssemblyReference.cache
+C:\Users\ilpad\Documents\code\c3\20240717-natural-sort\Solutions\KenSolutions\CSharp\NaturalSort\NaturalSort\obj\Debug\net6.0\NaturalSort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ilpad\Documents\code\c3\20240717-natural-sort\Solutions\KenSolutions\CSharp\NaturalSort\NaturalSort\obj\Debug\net6.0\NaturalSort.AssemblyInfoInputs.cache
+C:\Users\ilpad\Documents\code\c3\20240717-natural-sort\Solutions\KenSolutions\CSharp\NaturalSort\NaturalSort\obj\Debug\net6.0\NaturalSort.AssemblyInfo.cs
+C:\Users\ilpad\Documents\code\c3\20240717-natural-sort\Solutions\KenSolutions\CSharp\NaturalSort\NaturalSort\obj\Debug\net6.0\NaturalSort.csproj.CoreCompileInputs.cache
+C:\Users\ilpad\Documents\code\c3\20240717-natural-sort\Solutions\KenSolutions\CSharp\NaturalSort\NaturalSort\obj\Debug\net6.0\NaturalSort.dll
+C:\Users\ilpad\Documents\code\c3\20240717-natural-sort\Solutions\KenSolutions\CSharp\NaturalSort\NaturalSort\obj\Debug\net6.0\refint\NaturalSort.dll
+C:\Users\ilpad\Documents\code\c3\20240717-natural-sort\Solutions\KenSolutions\CSharp\NaturalSort\NaturalSort\obj\Debug\net6.0\NaturalSort.pdb
+C:\Users\ilpad\Documents\code\c3\20240717-natural-sort\Solutions\KenSolutions\CSharp\NaturalSort\NaturalSort\obj\Debug\net6.0\NaturalSort.genruntimeconfig.cache
+C:\Users\ilpad\Documents\code\c3\20240717-natural-sort\Solutions\KenSolutions\CSharp\NaturalSort\NaturalSort\obj\Debug\net6.0\ref\NaturalSort.dll
