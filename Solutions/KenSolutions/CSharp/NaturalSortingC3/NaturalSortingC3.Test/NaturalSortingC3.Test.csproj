@@ -18,7 +18,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\NaturalSort\NaturalSort.csproj" />
+    <ProjectReference Include="..\NaturalSortingC3\NaturalSortingC3.csproj" />
   </ItemGroup>
 
 </Project>
