@@ -16,9 +16,13 @@ namespace NaturalSortingC3
             Console.WriteLine("Hello, World!");
         }
 
-        public static string[] SortNaturally(string[] unsorted)
+        public static string[] SortNaturally(string[] unsorted, Boolean sortDescending = false)
         {
             string[] sorted = SortUnsorted(unsorted);
+            if (sortDescending)
+            {
+                Array.Reverse(sorted);
+            }
             return sorted;
         }
 

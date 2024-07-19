@@ -102,6 +102,25 @@ namespace NaturalSortingC3.Test
         }
 
         [Test]
+        public void NaturalSortAscending_Test3()
+        {
+            string[] unsorted = { "file10", "file2", "file1b-blah234", "file1b-blah234file1b-blah234file1b-blah234", "file1a", "file1b-blah234file1b-blah234file1b-blah233", "file1b", "123", "file20", "file11", "123abc", "file3" };
+            string[] sortedTarget = { "123", "123abc", "file1a", "file1b", "file1b-blah234", "file1b-blah234file1b-blah234file1b-blah233", "file1b-blah234file1b-blah234file1b-blah234", "file2", "file3", "file10", "file11", "file20" };
+            string[] sortedActual = Program.SortNaturally(unsorted);
+            Assert.IsTrue(sortedTarget.SequenceEqual(sortedActual));
+        }
+
+        [Test]
+        public void NaturalSortDescending_Test1()
+        {
+            string[] unsorted = { "file10", "file2", "file1b-blah234", "file1b-blah234file1b-blah234file1b-blah234", "file1a", "file1b-blah234file1b-blah234file1b-blah233", "file1b", "123", "file20", "file11", "123abc", "file3" };
+            string[] sortedTarget = { "123", "123abc", "file1a", "file1b", "file1b-blah234", "file1b-blah234file1b-blah234file1b-blah233", "file1b-blah234file1b-blah234file1b-blah234", "file2", "file3", "file10", "file11", "file20" };
+            Array.Reverse(sortedTarget);
+            string[] sortedActual = Program.SortNaturally(unsorted, true);
+            Assert.IsTrue(sortedTarget.SequenceEqual(sortedActual));
+        }
+
+        [Test]
         public void CompareNaturally()
         {
             string input = "file1bblah234";
